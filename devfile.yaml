@@ -1,6 +1,6 @@
 schemaVersion: "2.0.0"
 metadata:
-  name: "spring petclinic demo"
+  namee: "spring petclinic demo"
 projects:
   - name: "spring-petclinic"
     git:
