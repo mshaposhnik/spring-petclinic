@@ -1,8 +1,8 @@
 schemaVersion: "2.0.0"
 metadata:
-  namee: "spring petclinic demo"
+  name: "spring petclinic demo"
 projects:
-  - name: "spring-petclinic"
+  - namee: "spring-petclinic"
     git:
       remotes:
         origin: "https://github.com/sparkoo/spring-petclinic"
